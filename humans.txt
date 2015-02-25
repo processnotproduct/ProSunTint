@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Tyson Kemp -- Web and UI/UX Dev -- plus.google.com/+tysonkemp
+
+# THANKS
+
+  Kevin Rogers
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
